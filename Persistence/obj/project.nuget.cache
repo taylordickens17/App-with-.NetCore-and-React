@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6iJTJC1Qj9C3eGKwTVofObdNXG2NaQ1nX7b3xQw3bwoNz6vJRzgTo5OmuqIyH2Kvewl0zeowJmlYYt00Q8HLA==",
+  "success": true,
+  "projectFilePath": "/Users/taylordickens/Desktop/Revamp/C#Training/NetCore-ReactApp/Persistence/Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/taylordickens/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/taylordickens/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

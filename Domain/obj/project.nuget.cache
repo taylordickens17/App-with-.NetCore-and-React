@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8nGoXfu6TlNenFijJQVHRSjm+QGP9P7KFmav45v4sp2yO/4A9rEqdlaBxRRSoPxJjhOH6GyTQh6Vpk19t6xiQ==",
+  "success": true,
+  "projectFilePath": "/Users/taylordickens/Desktop/Revamp/C#Training/NetCore-ReactApp/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/taylordickens/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/taylordickens/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
